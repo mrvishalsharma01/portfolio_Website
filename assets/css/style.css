@@ -1,10 +1,3 @@
-/**
-* Template Name: Personal - v2.1.0
-* Template URL: https://bootstrapmade.com/personal-free-resume-bootstrap-template/
-* Author: BootstrapMade.com
-* License: https://bootstrapmade.com/license/
-*/
-
 /*--------------------------------------------------------------
 # General
 --------------------------------------------------------------*/
@@ -484,6 +477,7 @@ section .container {
   padding: 20px;
   background: #09203a;
   transition: ease-in-out 0.3s;
+  cursor: pointer;
 }
 
 
@@ -658,7 +652,8 @@ section .container {
   background: #09203a;
   padding: 40px 40px;
   transition: all ease-in-out 0.3s;
-  margin: 10px
+  margin: 10px;
+  cursor: pointer;
 }
 
 .services .icon-box .icon {
